@@ -17,4 +17,4 @@ Newman Report:
 
 
 
-API Documentation : https://documenter.getpostman.com/view/18602654/2s9YywgKwx
+API Documentation : https://documenter.getpostman.com/view/18602654/2s9Yyy7HkC
